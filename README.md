@@ -42,10 +42,12 @@ $ cookiecutter -c https://github.com/porter-colin93/DataModellingTemplate
 $ pip install -e
 ```
 
+### Make Project a GitHub Repository
+Using GitHub desktop, one can make the project a GitHub repository to track changes not just locally, but also on GitHub.
 
 ### Setup pre-commits
 #### 1. Install pre-commit:
-*While still in the project directory, run:*
+*While IN the project directory that is also a Git repository, run:*
 ``` bash
 $ pip install pre-commit
 ```
@@ -99,11 +101,7 @@ Fixing sample.py
 black....................................................................Passed
 ```
 
-### Make Project a GitHub Repository
-Using GitHub desktop, one can make the project a GitHub repository to track changes not just locally, but also on GitHub.
-
 ## Project/Directory Structure
-
 The directory structure of your new project looks like this:
 
 ```
@@ -162,6 +160,10 @@ $ jupytext --sync notebook.ipynb                  # Update whichever of notebook
 ```
 
 ## References
-- https://goodresearch.dev/
-- https://drivendata.github.io/cookiecutter-data-science/
-- https://github.com/nspiller/template_data_pipelines/tree/main
+https://goodresearch.dev/
+https://drivendata.github.io/cookiecutter-data-science/
+https://github.com/nspiller/template_data_pipelines/tree/main
+
+https://cookiecutter.readthedocs.io/en/stable/#
+https://pre-commit.com/
+https://desktop.github.com/
