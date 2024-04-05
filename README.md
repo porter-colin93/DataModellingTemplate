@@ -160,10 +160,10 @@ $ jupytext --sync notebook.ipynb                  # Update whichever of notebook
 ```
 
 ## References
-https://goodresearch.dev/
-https://drivendata.github.io/cookiecutter-data-science/
-https://github.com/nspiller/template_data_pipelines/tree/main
+- https://goodresearch.dev/
+- https://drivendata.github.io/cookiecutter-data-science/
+- https://github.com/nspiller/template_data_pipelines/tree/main
 
-https://cookiecutter.readthedocs.io/en/stable/#
-https://pre-commit.com/
-https://desktop.github.com/
+- https://cookiecutter.readthedocs.io/en/stable/#
+- https://pre-commit.com/
+- https://desktop.github.com/
