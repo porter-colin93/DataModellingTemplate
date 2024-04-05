@@ -34,7 +34,7 @@ $ pip install cookiecutter
 Navigate to the directory where you would like your project to reside.
 #### 3. Run and follow prompts:
 ``` bash
-$ cookiecutter -c https://github.com/porter-colin93/DataModellingTemplate
+$ cookiecutter https://github.com/porter-colin93/DataModellingTemplate
 ```
 #### 4. Install the project code as a local python module:
 *Navigate into the project directory and then run:*
