@@ -167,3 +167,5 @@ $ jupytext --sync notebook.ipynb                  # Update whichever of notebook
 - https://cookiecutter.readthedocs.io/en/stable/#
 - https://pre-commit.com/
 - https://desktop.github.com/
+
+- https://nvie.com/posts/a-successful-git-branching-model/
